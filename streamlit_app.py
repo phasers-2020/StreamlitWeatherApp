@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from datetime import date
 
-api_key = "333fbb87-13b0-4706-a9c2-3fb5adf1fd40"
+api_key = "e5226148-61eb-4201-bb03-76678b8471f5"
 
 st.title("Weather and Air Quality Web App")
 st.header("Streamlit and AirVisual API")
